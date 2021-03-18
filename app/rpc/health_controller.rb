@@ -1,3 +1,5 @@
+require 'grpc/health/v1/health_services_pb'
+
 module Grpc
   module Health
     module V1
